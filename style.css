@@ -2,7 +2,6 @@
 box-sizing: border-box;
 }
 body {
-   color: #ffffff;
    background-color: #b1b1b1;
 }
 .block-main {
@@ -40,6 +39,20 @@ body {
 .second-small {
    margin: 5px;
    width: 155px;
-   height: auto;
+   height: 90px;
    background-color: #3b3e86;
+}
+.span-first {
+   font-size: 15px;
+   position: relative;
+   color: #ffffff;
+   top: 120px;
+   left: 228px;
+}
+.span-second {
+   font-size: 15px;
+   position: relative;
+   color: #ffffff;
+   top: 70px;
+   left: 145px;
 }
